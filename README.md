@@ -13,7 +13,7 @@ Git & Github
 -Schreiben & kreatives Arbeiten
 
 Digitale Produkte zu erstrellen bedeutet für mich, Probleme zu erkennen und Lösungen zu bauen, die echten Mehrwert schaffen.
-##Mein Ziel
+## Mein Ziel
 Als Fullstack Developer innovative und nutzerfreundliche Anwendungen entwickeln-und gleichzeitig kreative Projekte wie mein Buch vorranzubringen.
 
 <!--
