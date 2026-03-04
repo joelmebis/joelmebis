@@ -1,5 +1,6 @@
 # Hi, ich bin Joel Mebis 👋
-aktuell lerne ich
+aktuell lerne ich und bin Teilnehmer eines 12- monatigen Fullstack Software Developer Bootcamps bei neue fische
+
 <!--
 **joelmebis/joelmebis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
