@@ -16,7 +16,8 @@ Digitale Produkte zu erstrellen bedeutet für mich, Probleme zu erkennen und Lö
 ## Mein Ziel
 Als Fullstack Developer innovative und nutzerfreundliche Anwendungen entwickeln-und gleichzeitig kreative Projekte wie mein Buch vorranzubringen.
 ## übergeordnetes Ziel
-</>Ich arbeite mit voller Motivation und Disziplin daran, meinen 12-monatigen Kurs erfolgreich abzuschließen und mein Zertifikat mit Stolz in den Händen zu halten.
+Ich arbeite mit voller Motivation und Disziplin daran, meinen 12-monatigen Kurs erfolgreich abzuschließen und mein Zertifikat mit Stolz in den Händen zu halten.
+
 <!--
 **joelmebis/joelmebis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
