@@ -7,7 +7,12 @@
 -Node.js
 -Datenbanken
 Git & Github
+## Meine Interessen & Hobys
+-Webentwicklung
+-Digitale Produkte entwickeln
+-Schreiben & kreatives Arbeiten
 
+Digitale Produkte zu erstrellen bedeutet für mich, Probleme zu erkennen und Lösungen zu bauen, die echten Mehrwert schaffen.
 <!--
 **joelmebis/joelmebis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
