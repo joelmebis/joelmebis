@@ -12,8 +12,7 @@ Git & Github
 -Digitale Produkte entwickeln
 -Schreiben & kreatives Arbeiten
 ## 📖 Mein Buchprojekt
-
-![Buchcover](Disziplin-ist-keine-option-Cover.jpeg)
+<img src="Disziplin-ist-keine-option-Cover.jpeg" width="25%">
 
 Digitale Produkte zu erstrellen bedeutet für mich, Probleme zu erkennen und Lösungen zu bauen, die echten Mehrwert schaffen.
 ## Mein Ziel
