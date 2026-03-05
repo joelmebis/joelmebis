@@ -7,14 +7,14 @@
 - Node.js
 - Datenbanken
 - Git & Github
-## Meine Interessen & Hobys
+## Meine Interessen & Hobys 🚀
 - Webentwicklung
 - Digitale Produkte entwickeln
 - Schreiben & kreatives Arbeiten
 ## 📖 Mein Buchprojekt
 <img src="Disziplin-ist-keine-option-Cover.jpeg" width="25%">
 
-Digitale Produkte zu erstrellen bedeutet für mich, Probleme zu erkennen und Lösungen zu bauen, die echten Mehrwert schaffen.
+🚀 Digitale Produkte zu erstrellen bedeutet für mich, Probleme zu erkennen und Lösungen zu bauen, die echten Mehrwert schaffen.
 ## Mein Ziel
 Als Fullstack Developer innovative und nutzerfreundliche Anwendungen entwickeln-und gleichzeitig kreative Projekte wie mein Buch vorranzubringen.
 ## übergeordnetes Ziel
