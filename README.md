@@ -1,16 +1,16 @@
 # Hi, ich bin Joel Mebis 👋
 ## aktuell lerne ich und bin Teilnehmer eines 12- monatigen Fullstack Software Developer Bootcamps bei neue fische
 ## Aktuell lerne ich
--HTML & CSS
--JavaScript
--React
--Node.js
--Datenbanken
-Git & Github
+- HTML & CSS
+- JavaScript
+- React
+- Node.js
+- Datenbanken
+- Git & Github
 ## Meine Interessen & Hobys
--Webentwicklung
--Digitale Produkte entwickeln
--Schreiben & kreatives Arbeiten
+- Webentwicklung
+- Digitale Produkte entwickeln
+- Schreiben & kreatives Arbeiten
 ## 📖 Mein Buchprojekt
 <img src="Disziplin-ist-keine-option-Cover.jpeg" width="25%">
 
