@@ -13,7 +13,7 @@ Git & Github
 -Schreiben & kreatives Arbeiten
 ## 📖 Mein Buchprojekt
 
-![Buchcover](./book-cover.jpg)
+![Buchcover](Disziplin ist keine Option Cover.jpeg)
 
 Digitale Produkte zu erstrellen bedeutet für mich, Probleme zu erkennen und Lösungen zu bauen, die echten Mehrwert schaffen.
 ## Mein Ziel
